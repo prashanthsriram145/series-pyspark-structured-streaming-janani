@@ -1,0 +1,4 @@
+v1
+{"path":"file:///C:/code/pyspark/apache-spark-structured-streaming-api-processing-data/datasets/historicalDataset/dropLocation/historical_data_1_1.csv","timestamp":1595999220000,"batchId":0}
+{"path":"file:///C:/code/pyspark/apache-spark-structured-streaming-api-processing-data/datasets/historicalDataset/dropLocation/historical_data_2.csv","timestamp":1595999290000,"batchId":0}
+{"path":"file:///C:/code/pyspark/apache-spark-structured-streaming-api-processing-data/datasets/historicalDataset/dropLocation/historical_data_3.csv","timestamp":1595999300000,"batchId":0}
